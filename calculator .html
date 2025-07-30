@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css"></a>
+    <script src="function.js"></script>
+</head>
+<body>
+    <div class="main" >
+        <div class="calc" >
+            <div class="output" >
+                <input type="text" id="screen">
+            </div>
+            <div class="buttons" >
+                <button onclick="bclear()" class="button" style="background: red;">clear</button>
+                <div class="row">
+                    <button onclick="bclick(7)"  class="button">7</button>
+                    <button onclick="bclick(8)"  class="button">8</button>
+                    <button onclick="bclick(9)"  class="button">9</button>
+                    <button onclick="bclick('/')"  class="button">/</button>
+                    
+                </div>
+                <div class="row">
+                    <button onclick="bclick(4)"  class="button">4</button>
+                    <button onclick="bclick(5)"  class="button">5</button>
+                    <button onclick="bclick(6)"  class="button">6</button>
+                    <button onclick="bclick('*')"  class="button">x</button>
+                </div>
+                <div class="row">
+                    <button onclick="bclick(1)"  class="button">1</button>
+                    <button onclick="bclick(2)"  class="button">2</button>
+                    <button onclick="bclick(3)"  class="button">3</button>
+                    <button onclick="bclick('-')"  class="button">-</button>
+                </div>
+                <div class="row">
+                    <button onclick="bclick('.')"  class="button">.</button>
+                    <button onclick="bclick(0)"  class="button">0</button>
+                    <button onclick="bclick('+')"  class="button">+</button>
+                    <button onclick="equalclick()"  class="button">=</button>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</body>
+</html>
