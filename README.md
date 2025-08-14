@@ -1,8 +1,8 @@
 # 🔢 Online Calculator – HTML, CSS, JavaScript
 
-This is a simple and interactive calculator created by **Vismaya J** using **HTML**, **CSS**, and **JavaScript**. It performs basic arithmetic operations and is ideal for beginners learning web development.
+This is a simple and interactive calculator  using HTML,CSS, and JS. It performs basic arithmetic operations and is ideal for beginners learning web development.
 
-👉 **Live Demo:** [https://vismaya-tech.github.io/calculator/](https://vismaya-tech.github.io/calculator/)
+👉 Demo: [https://vismaya-tech.github.io/calculator/](https://vismaya-tech.github.io/calculator/)
 
 ---
 
